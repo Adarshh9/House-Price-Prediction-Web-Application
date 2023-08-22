@@ -50,7 +50,4 @@ The Mumbai Home Price Prediction Web Application is a user-friendly interface th
 
 2. Click the "Estimate Price" button to obtain the estimated price of the house.
 
-```
-### Contributing
-
-Contributions to this project are welcome. If you find any issues or want to enhance the project, feel free to create a pull request.
+ ```
